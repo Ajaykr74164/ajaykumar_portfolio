@@ -185,7 +185,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/home-bg-overlay.webp');
+        background: url('../images/home-bg-over.webp');
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
